@@ -1,0 +1,28 @@
+tr{
+    height: 2px;
+}
+
+img{
+padding-bottom: 2rem;
+}
+.pippo{
+    height: 0;
+    line-height:0;
+
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.topolino{
+    padding-bottom: 0;
+
+}
+
+body {
+    width: 1920px;
+    height: 1080px;
+    background-image: url('../backlol.webp');
+  }
